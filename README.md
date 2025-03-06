@@ -1,6 +1,6 @@
 # Tiny shop
 
-Build and e-commerce app by using Reactjs and Laravel 11+
+Build an e-commerce app by using Reactjs and Laravel 11+
 
 Local environment based on Docker microservice architecture
 - Laravel 11.9
